@@ -20,7 +20,6 @@ cd YOLOv7-DeepSORT-Object-Tracking
 ```
 pip install -r requirements.txt
 
-```
 
 ```
 - Downloading the DeepSORT Files From The Google Drive 
