@@ -23,6 +23,8 @@ cd YOLOv7-DeepSORT-Object-Tracking
 pip install -r requirements.txt
 
 ```
+- Downloading the Weights  From The YOLOv7 Repo and paste them into the YOLOv7-DeepSORT-Object-Tracking folder
+[`Weights File`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt)
 
 - Downloading the DeepSORT Files From The Google Drive 
 ```
