@@ -42,7 +42,7 @@ gdown "https://drive.google.com/uc?id=1rjBn8Fl1E_9d0EMVtL24S9aNQOJAveR5&confirm=
 
 - For yolov7 object detection + Tracking
 ```
-python deep_sort_tracking_id.py --weights yolov7_training.pt  --img 640  --source test1.mp4  
+python deep_sort_tracking_id.py --weights yolov7.pt  --img 640  --source test1.mp4  
 ```
 
 
